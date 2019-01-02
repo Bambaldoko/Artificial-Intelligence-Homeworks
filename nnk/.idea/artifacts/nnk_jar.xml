@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="nnk:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/nnk_jar</output-path>
+    <root id="archive" name="nnk.jar">
+      <element id="module-output" name="nnk" />
+    </root>
+  </artifact>
+</component>

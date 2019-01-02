@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BlockSwipePuzzle:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BlockSwipePuzzle_jar</output-path>
+    <root id="archive" name="BlockSwipePuzzle.jar">
+      <element id="module-output" name="BlockSwipePuzzle" />
+    </root>
+  </artifact>
+</component>
